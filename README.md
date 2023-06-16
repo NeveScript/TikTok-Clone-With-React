@@ -1,7 +1,12 @@
-# Creating a TikTok Clone
+# 📱 Creating a TikTok Clone
 
-_The project consists of recreating the TikTok application, with technologies such as React._
+## About:
+> The project is a copy of the TikTok application, for the purpose of study and better understanding of the React.js and Firebase technology, with extra functionality and a similar layout.
 
-## Diary:
+## Tools and languages:
 
-### Day 01: Installing React and studying the starter example.
+![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=blue)
+![FireBase](https://img.shields.io/badge/FireBase-yellow?style=for-the-badge&logo=firebase&logoColor=black)
+![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/Html-red?style=for-the-badge&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white)
