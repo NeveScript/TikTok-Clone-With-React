@@ -1,6 +1,7 @@
 import React, { useRef, useState } from "react";
 import VideoSidebar from "./components/sidebar/VideoSidebar";
 import VideoFooter from "./components/footer/VideoFooter";
+import VideoTopMenu from "./components/topmenu/VideoTopMenu";
 import "./video.css";
 
 function Video({ likes, comments, shares, username, description, music, url }) {
@@ -26,7 +27,7 @@ function Video({ likes, comments, shares, username, description, music, url }) {
         loop
         src={url}
       ></video>
-
+      <VideoTopMenu />
       <VideoSidebar likes={likes} comments={comments} shares={shares} />
       <VideoFooter
         username={username}

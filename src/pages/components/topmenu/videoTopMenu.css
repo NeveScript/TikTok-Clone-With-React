@@ -1,0 +1,13 @@
+.videoTopMenu{
+
+    position: absolute;
+    top: 5%;
+    right: 40%;
+    color: white;
+    opacity: 80%;
+}
+
+.videoTopMenu__title{
+    font-size: 30px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
