@@ -20,7 +20,7 @@ function VideoSidebar({ likes, comments, shares }) {
         ) : (
           <FavoriteBorderIcon fontSize="large" />
         )}
-        {liked ? ++likes : likes}
+        <p>{liked ? ++likes : likes}</p>
       </div>
 
       <div className="videoSidebar__actions">
