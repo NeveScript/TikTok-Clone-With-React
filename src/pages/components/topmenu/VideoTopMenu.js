@@ -3,7 +3,7 @@ import "./videoTopMenu.css";
 
 function VideoTopMenu() {
   return (
-    <div class="videoTopMenu">
+    <div className="videoTopMenu">
       <h3 className="videoTopMenu__title">For You</h3>
       <hr></hr>
     </div>
