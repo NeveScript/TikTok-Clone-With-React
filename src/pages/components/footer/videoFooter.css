@@ -56,3 +56,14 @@
     }
     
 }
+
+@media only screen and (max-width: 440px){
+
+    .videoFooter{
+        bottom: 22%;
+    }
+
+    .videoFooter__musicName{
+        width: 78%;
+    }
+} 
